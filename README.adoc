@@ -1,0 +1,19 @@
+= Unix History
+
+== Old versions
+
+Historic Unix R7 using SIMH (on Raspberry Pi): https://www.raspberrypi.org/forums/viewtopic.php?t=163320
+(very detailed instructions on how to install Unix V7 under SIMH, not only on RPi). Make sure you read
+the comments from `pbnelson` with a couple of corrections to the original instructions.
+
+Installing BSD 2.9 on SIMH: http://gunkies.org/wiki/Installing_2.9_BSD_on_SIMH
+
+And other guides on this site are helpful: http://gunkies.org/wiki/Category:UNIX_Practical_Guides
+
+
+
+
+
+== Editors
+
+`vi` and `vim` history: https://thenewstack.io/a-look-at-vim-a-text-editor-for-the-ages/
