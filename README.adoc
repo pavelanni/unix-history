@@ -10,6 +10,8 @@ Installing BSD 2.9 on SIMH: http://gunkies.org/wiki/Installing_2.9_BSD_on_SIMH
 
 And other guides on this site are helpful: http://gunkies.org/wiki/Category:UNIX_Practical_Guides
 
+Unix V7 as a virtual machine (also includes UCB additions such as `ex`, `vi`, and `more`): http://www.nordier.com/
+
 
 
 
@@ -17,3 +19,7 @@ And other guides on this site are helpful: http://gunkies.org/wiki/Category:UNIX
 == Editors
 
 `vi` and `vim` history: https://thenewstack.io/a-look-at-vim-a-text-editor-for-the-ages/
+
+STEVIE editor (the predecessor of Vim): http://nosuch.com/tjt/stevie/
+
+

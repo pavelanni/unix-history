@@ -1,0 +1,15 @@
+page 149: Evaluation of shell variables:
+
+[source]
+----
+$var            value of var, nothing if var is undefined
+${var}          same, useful if alphanumerics follow variable name
+${var-thing}    value of var if defined, otherwise thing. var unchanged
+${var=thing}    value of var if defined, otherwise thing. If undefined,
+                var set to thing
+${var?message}  if defined, var. Otherwise, print message and exit shell
+                If message empty, print: var: parameter not set
+${var+thing}    thing if var defined, otherwise nothing
+----
+
+page 150: Using `trap` to catch interrupts 
