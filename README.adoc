@@ -6,12 +6,32 @@ Historic Unix R7 using SIMH (on Raspberry Pi): https://www.raspberrypi.org/forum
 (very detailed instructions on how to install Unix V7 under SIMH, not only on RPi). Make sure you read
 the comments from `pbnelson` with a couple of corrections to the original instructions.
 
+BSD 2.9 install files https://github.com/magoroku15/2.9BSD
+
+BSD 2.11 install https://www.ak6dn.com/PDP-11/2.11BSD/
+
+BSD 2.11 on PDP-11/44 http://retrocmp.com/how-tos/installing-211bsd-unix-on-pdp-1144/118-installing-211bsd-unix-on-pdp-1144
+
+
 Installing BSD 2.9 on SIMH: http://gunkies.org/wiki/Installing_2.9_BSD_on_SIMH
 
 And other guides on this site are helpful: http://gunkies.org/wiki/Category:UNIX_Practical_Guides
 
+More about SIMH: http://gunkies.org/wiki/SIMH
+
 Unix V7 as a virtual machine (also includes UCB additions such as `ex`, `vi`, and `more`): http://www.nordier.com/
 
+Installing 7th Edition Unix on Simh-PDP11 http://wsxyz.net/v7/
+
+The Unix Heritage Society: https://www.tuhs.org/
+
+TUHS mailing list archives: https://minnie.tuhs.org/pipermail/tuhs/
+
+Archive at TUHS: https://minnie.tuhs.org/Archive/
+
+Kernel Source tour: https://www.tamacom.com/tour.html
+
+Awesome UNIX collection: https://github.com/sirredbeard/Awesome-UNIX
 
 
 
@@ -21,5 +41,48 @@ Unix V7 as a virtual machine (also includes UCB additions such as `ex`, `vi`, an
 `vi` and `vim` history: https://thenewstack.io/a-look-at-vim-a-text-editor-for-the-ages/
 
 STEVIE editor (the predecessor of Vim): http://nosuch.com/tjt/stevie/
+
+STEVIE again (more complete) https://github.com/ggnkua/STEVIE
+
+
+
+== Video
+
+AT&T Archives: The UNIX Operating System https://www.youtube.com/watch?v=tc4ROCJYbm0
+
+UNIX: Making Computers Easier To Use -- AT&T Archives film from 1982, Bell Laboratories https://www.youtube.com/watch?v=XvDZLjaCJuw
+
+The Computer Chronicles - UNIX (1985) "Will Unix become the next MS DOS?" https://www.youtube.com/watch?v=0DdoGPav3fc
+
+Unix System https://www.youtube.com/watch?v=Yas19evqcT8
+
+*Computerphile UNIX Special Series*
+
+Playlist: 
+https://www.youtube.com/watch?v=QFK6RG47bww&list=PLzH6n4zXuckqZ90zLyy36qjO5YIn1RulG
+
+Brian Kernighan Q&A https://www.youtube.com/watch?v=zmYhR8cUX90&list=PLzH6n4zXuckr7UDOdvPy2bDVsDlMBKTav
+
+
+
+UNIX Special: Profs Kernighan & Brailsford https://www.youtube.com/watch?v=vT_J6xc-Az0
+
+Unix Pipeline (Brian Kernighan) https://www.youtube.com/watch?v=bKzonnwoR2I
+
+"C" Programming Language: Brian Kernighan https://www.youtube.com/watch?v=de2Hsvxaf8M
+
+
+
+== Books 
+
+https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#unix
+
+Unix Programming Environment notes: https://github.com/ahmaazouzi/unix_programming_environment
+
+Unix Programming Environment notes and src https://github.com/tcd/tupe
+
+Maurice Bach book notes https://github.com/suvratapte/Maurice-Bach-Notes
+
+https://epdf.pub/the-design-of-the-unix-operating-system.html
 
 
